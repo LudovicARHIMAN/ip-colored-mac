@@ -17,3 +17,5 @@ A) [Preferred] Using [Homebrew](http://brew.sh):
     pip install termcolor
 
 Once iproute2mac installed you can take the ip.py file from this repo and put as `/opt/homebrew/bin/ip`
+
+this repo only provide a way to display ip address in color 
